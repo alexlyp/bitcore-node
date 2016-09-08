@@ -9,7 +9,6 @@ addons:
     packages:
       - g++-4.8
       - gcc-4.8
-      - libzmq3-dev
 node_js:
   - "v0.10.25"
   - "v0.12.7"
